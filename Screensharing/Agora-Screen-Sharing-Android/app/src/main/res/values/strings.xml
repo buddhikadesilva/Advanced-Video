@@ -6,7 +6,7 @@
     <!-- After you entered the App ID, remove <##> outside of Your App ID -->
     <!-- For formal released project, please use Security Keys
         https://docs.agora.io/en/Video/token?platform=All%20Platforms -->
-    <string name="agora_app_id"><#YOUR APP ID#></string>
+    <string name="agora_app_id">63ea9898c3d4490397ee791478e712ad</string>
 
     <string name="label_start_camera">Start sharing your camera</string>
     <string name="label_stop_camera">Stop sharing your camera</string>
